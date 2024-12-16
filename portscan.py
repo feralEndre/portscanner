@@ -1,3 +1,7 @@
+# 
+# Simple port open check and scan 
+#
+
 import socket
 import sys
 
